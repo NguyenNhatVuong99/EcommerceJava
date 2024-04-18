@@ -1,0 +1,16 @@
+controllers\OrderController.class
+controllers\AuthController.class
+models\User.class
+connection\DatabaseInfor.class
+controllers\UserController.class
+com\mycompany\shopping\resources\JakartaEE8Resource.class
+controllers\CheckoutController.class
+com\mycompany\shopping\JakartaRestConfiguration.class
+DAO\ProductDAO.class
+models\Product.class
+models\OrderDetail.class
+connection\ConnectDB.class
+controllers\ProductController.class
+DAO\UserDAO.class
+DAO\OrderDAO.class
+models\Order.class
